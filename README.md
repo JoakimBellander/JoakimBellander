@@ -1,16 +1,16 @@
 ![Header Image](liminity-glow-effect.svg)
 
-<!--
-**JoakimBellander/JoakimBellander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+I'm Joakim, a Consultant Manager at Liminity AB. In a small company environment, I wear multiple hats - from hands-on development and technical problem-solving to team leadership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Work
+* Technical problem-solving and development
+* Team collaboration and project support
+* System administration and infrastructure
+* Learning and adapting to new technologies
+
+
+## 📫 How to reach me
+- Email: joakim@liminity.se
+- LinkedIn: [Joakim Bellander](linkedin.com/in/joakim-bellander-aa0128179)
