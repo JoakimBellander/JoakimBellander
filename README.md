@@ -1,4 +1,4 @@
-## Hi there 👋
+![Header Image](liminity-glow-effect.svg)
 
 <!--
 **JoakimBellander/JoakimBellander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
