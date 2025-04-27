@@ -1,4 +1,5 @@
-![Header Image](video.gif)
+<img src="video.gif" alt="LIMINIT" width="1000"/>
+
 
 
 ## About Me
