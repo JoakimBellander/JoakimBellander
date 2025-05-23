@@ -1,4 +1,4 @@
-<img src="video.gif" alt="LIMINIT" width="1000"/>
+<img src="video.gif" alt="LIMINITY" width="1000"/>
 
 
 
